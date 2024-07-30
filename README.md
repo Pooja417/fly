@@ -1,8 +1,11 @@
 This project is a web application that provides real-time flight status updates. The frontend is built using React.js, and the backend is developed with Python. Firebase is used for notifications. The project uses the AviationStack API for fetching real-time flight data.
 
  ## Table of contents->
+ 
 -Features
+
 -Technologies
+
 -Installation
 
 ## Features
