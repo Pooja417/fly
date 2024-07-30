@@ -24,7 +24,7 @@ This project is a web application that provides real-time flight status updates.
 -Python
 -AviationStack API
 
-###Other:
+### Other:
 -Firebase (for notifications)
 
 ## Installation
